@@ -1,5 +1,5 @@
-# Building_ETL_pipeline
-Karpov courses
+#### Building_ETL_pipeline
+Project from Karpov courses
 
 # Проект 1: Построение ETL-Пайплайна (DAG_ETL_TVL)
 #### Описание проекта:
